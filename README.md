@@ -86,6 +86,12 @@ This repository is the open, framework-free core. The desktop application built 
 its interactive interface, automated 3D landmarking and newer analysis modules, is still in
 development and not public. Semilandmark sliding is not part of this package yet.
 
+## Feedback and contributions
+
+Bug reports and questions are welcome as [GitHub issues](https://github.com/gbravomorante/gmm-core/issues).
+For a pull request, please open an issue first for anything beyond a small fix, and make sure
+`pytest && ruff check .` passes.
+
 ## License
 
 [MIT](LICENSE) © Guillermo Bravo Morante · [gbravomorante.dev](https://gbravomorante.dev)
