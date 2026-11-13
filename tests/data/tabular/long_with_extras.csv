@@ -1,0 +1,16 @@
+Specimen,Landmark,x,y,z,Species,Length
+A1,nasion,0,0,0,Homo,10.5
+A1,bregma,1,0,0,Homo,10.5
+A1,lambda,0,1,0,Homo,10.5
+A1,inion,0,0,1,Homo,10.5
+A2,inion,0,0,2,Pan,12
+A2,lambda,0,2,0,Pan,12
+A2,bregma,2,0,0,Pan,12
+A2,nasion,0.5,0.5,0.5,Pan,12
+A3,nasion,,,,Homo,9
+A3,bregma,1.1,NA,0.1,Homo,9
+A3,lambda,-999,-999,-999,Homo,9
+A3,inion,0,0,1.2,Homo,9
+A4,nasion,0,0,0,Pan,11
+A4,bregma,1,0,0,Pan,11
+A4,lambda,0,1,0,Pan,11

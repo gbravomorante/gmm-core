@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "gmm-core: transparent, tested geometric morphometrics in Python"
+authors:
+  - family-names: "Bravo Morante"
+    given-names: "Guillermo"
+    orcid: "https://orcid.org/0000-0002-1544-9279"
+version: 0.1.0
+date-released: 2026-11-13
+license: MIT
+repository-code: "https://github.com/gbravomorante/gmm-core"
